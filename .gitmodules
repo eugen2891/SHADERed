@@ -27,3 +27,6 @@
 	path = libs/SpvGenTwo
 	url = https://github.com/dfranx/SpvGenTwo
 	ignore = dirty
+[submodule "libs/glew"]
+	path = libs/glew
+	url = git@github.com:nigels-com/glew.git
